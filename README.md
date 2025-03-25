@@ -5,22 +5,14 @@ A modern web application built with React and TypeScript to upload, analyze, and
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Overview
+- Features
+- Screenshots
+- Technologies Used
+
 
 ## Overview
-
 DataLens is a React-based application designed to help users upload CSV files, visualize data through charts, and gain insights through statistical analysis. The app features a clean, responsive UI with interactive components, making it easy to explore and manipulate datasets. Key functionalities include data table editing, chart generation, outlier detection, and data cleaning.
-
-This project was developed as a personal project to demonstrate skills in React, TypeScript, and data visualization.
 
 ## Features
 
@@ -52,38 +44,28 @@ This project was developed as a personal project to demonstrate skills in React,
   - Footer with copyright information.
 
 ## Screenshots
-
 Here are some screenshots of DataLens in action:
 
 ### Home Page
+![Screenshot 2025-03-25 164716](https://github.com/user-attachments/assets/2ce7a848-fb94-41c5-852e-7cfe03531bc1)
 
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)  
 A welcoming page with an overview of the app’s features and a call-to-action to upload a CSV file.
 
 ### Upload Page
+![Screenshot 2025-03-25 170453](https://github.com/user-attachments/assets/86427c41-c14a-4bf0-b776-2220390cb93b)
 
-![Upload Page](https://via.placeholder.com/800x400.png?text=Upload+Page)  
 A clean interface for uploading CSV files with validation and feedback.
 
 ### Dashboard Page
-
-![Dashboard Page](https://via.placeholder.com/800x400.png?text=Dashboard+Page)  
+![Screenshot 2025-03-25 170707](https://github.com/user-attachments/assets/86796748-0e74-4223-9807-d3bce41084b4)
+![Screenshot 2025-03-25 170546](https://github.com/user-attachments/assets/36cbfb77-2be8-4fb4-aa92-3c93c06bac1b)
+![Screenshot 2025-03-25 170749](https://github.com/user-attachments/assets/61b25872-e14e-4d84-b212-d7948ee8f225)
+![Screenshot 2025-03-25 170619](https://github.com/user-attachments/assets/acf4466c-6566-421f-89c7-9b44d5035472)
+![image](https://github.com/user-attachments/assets/12c95d67-750e-4c75-99cb-bf8fac30afec)
+![image](https://github.com/user-attachments/assets/81b90bb0-8d3d-4f16-83bc-700648526c00)
 The main dashboard with charts, statistical insights, and an interactive data table.
-
-## Installation
-
-Follow these steps to set up and run DataLens locally:
-
-### Prerequisites
+## Technologies Used
 
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
-- [Git](https://git-scm.com/)
 
-### Steps
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/Akshaya150105/datalens.git
-   cd datalens
