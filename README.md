@@ -63,6 +63,8 @@ A clean interface for uploading CSV files with validation and feedback.
 ![Screenshot 2025-03-25 170619](https://github.com/user-attachments/assets/acf4466c-6566-421f-89c7-9b44d5035472)
 ![image](https://github.com/user-attachments/assets/12c95d67-750e-4c75-99cb-bf8fac30afec)
 ![image](https://github.com/user-attachments/assets/81b90bb0-8d3d-4f16-83bc-700648526c00)
+![image](https://github.com/user-attachments/assets/0d30885b-bc65-412c-b963-d37370d1f08a)
+
 The main dashboard with charts, statistical insights, and an interactive data table.
 ## Technologies Used
 
