@@ -52,6 +52,7 @@ Here are some screenshots of DataLens in action:
 A welcoming page with an overview of the app’s features and a call-to-action to upload a CSV file.
 
 ### Upload Page
+
 ![Screenshot 2025-03-25 170453](https://github.com/user-attachments/assets/86427c41-c14a-4bf0-b776-2220390cb93b)
 
 A clean interface for uploading CSV files with validation and feedback.
@@ -59,6 +60,7 @@ A clean interface for uploading CSV files with validation and feedback.
 ### Dashboard Page
 ![Screenshot 2025-03-25 170707](https://github.com/user-attachments/assets/86796748-0e74-4223-9807-d3bce41084b4)
 ![Screenshot 2025-03-25 170546](https://github.com/user-attachments/assets/36cbfb77-2be8-4fb4-aa92-3c93c06bac1b)
+![image](https://github.com/user-attachments/assets/938d1dc2-d4c7-4b0d-93d1-061a4dea5eb8)
 ![Screenshot 2025-03-25 170749](https://github.com/user-attachments/assets/61b25872-e14e-4d84-b212-d7948ee8f225)
 ![Screenshot 2025-03-25 170619](https://github.com/user-attachments/assets/acf4466c-6566-421f-89c7-9b44d5035472)
 ![image](https://github.com/user-attachments/assets/12c95d67-750e-4c75-99cb-bf8fac30afec)
