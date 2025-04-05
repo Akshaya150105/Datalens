@@ -70,6 +70,6 @@ A clean interface for uploading CSV files with validation and feedback.
 The main dashboard with charts, statistical insights, and an interactive data table.
 ## Technologies Used
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/) (v16)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
